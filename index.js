@@ -28,3 +28,4 @@ function destructivelyDeleteFromEmployeeByKey(employee, key, value) {
 destructivelyDeleteFromEmployeeByKey(employee)
 
 // Object lab
+//Use of key and value
